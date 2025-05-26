@@ -37,4 +37,4 @@ This dashboard is intended for sales analysts, business managers, decision-maker
 
 ### Overall Report & Dashboard Glimpse:
 
-![Amazon Sales Analytics Dashboard](./Dashboard.png)
+![Dashboard Preview](./Dashbord.png)
