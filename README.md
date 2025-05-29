@@ -41,5 +41,7 @@ This dashboard is intended for sales analysts, business managers, decision-maker
 ![Dashboard Preview](./LOGO.png)
 ![Dashboard Preview](./Introduction.png)
 ![Dashboard Preview](./details.png)
+![Dashboard Preview](./KPI.png)
+
 
 
