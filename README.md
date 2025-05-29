@@ -39,3 +39,4 @@ This dashboard is intended for sales analysts, business managers, decision-maker
 
 ![Dashboard Preview](./Dashbord.png)
 ![Dashboard Preview](./LOGO.png)
+![Dashboard Preview](./Introduction.png)
