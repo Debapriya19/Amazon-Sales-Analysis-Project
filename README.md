@@ -38,10 +38,10 @@ This dashboard is intended for sales analysts, business managers, decision-maker
 ### Overall Report & Dashboard Glimpse:
 
 ![Dashboard Preview](./Dashbord.png)
-![Dashboard Preview](./LOGO.png)
-![Dashboard Preview](./Introduction.png)
-![Dashboard Preview](./details.png)
-![Dashboard Preview](./KPI.png)
+![LOGO Preview](./LOGO.png)
+![Introduction Preview](./Introduction.png)
+![Details Preview](./details.png)
+![KPI Preview](./KPI.png)
 
 
 
